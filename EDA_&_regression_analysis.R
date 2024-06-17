@@ -1,11 +1,10 @@
 ####################
-## Statistics for Data Scientists
-## Coursework 1 R Script
+## Mobile Phones Statistical Analysis
 ## KCP
 ## 18/12/2023
 ####################
 
-setwd("/Users/katepoole/Documents/Kings/Statistics for Data Science - 7CCMMS61/Coursework 1")
+setwd("")
 
 # Load packages
 library(ggplot2)
